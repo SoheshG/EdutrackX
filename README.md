@@ -4,7 +4,7 @@
 ---
 
 ## 🔗 Project Demo  
-🎥 Watch the demo on YouTube: [EdutrackX - AI Study Planner & Tutor](https://youtube.com/your-video-link-here)
+🎥 Watch the demo on YouTube: [EdutrackX - AI Study Planner & Tutor](https://youtu.be/5qNdnctiemM)
 
 ---
 
